@@ -1,5 +1,5 @@
 # kthUpgTelefonbok
-Det här är ett program för hantering ett telefonregister.
+Det här är ett program för hantering av ett telefonregister.
 Programmet lagrar personers namn, adress och telefonnummer i "telefonbok.txt"
 mellan körningarna av programmet. Telefonboken ska för enkelhetens skull inte ta flera personer som har identiskt för- OCH efternamn.
 Detta för att vid byte av telefonnummer är det inte säkert att det finns en primärnyckel, då telefonnummer annars hade kunnat
